@@ -4,6 +4,12 @@ function sayHi() {
 
 sayHi()
 
+function work() {
+	alert('Work, work!')
+}
+
 function sayBye() {
 	alert('GoodBye from Git!')
 }
+
+sayBye()
