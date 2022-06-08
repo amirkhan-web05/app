@@ -3,3 +3,7 @@ function sayHi() {
 }
 
 sayHi()
+
+function sayBye() {
+	alert('GoodBye from Git!')
+}
