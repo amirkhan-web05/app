@@ -6,4 +6,3 @@ function GetStarted() {
 	alert('Get started')
 }
 
-if ('') console.log('');
