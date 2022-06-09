@@ -7,3 +7,5 @@ function GetStarted() {
 }
 
 const name = 'Amirkhan'
+
+const surname = 'Mak'
