@@ -5,3 +5,5 @@ function myFunc(name) {
 function GetStarted() {
 	alert('Get started')
 }
+
+const name = 'Amirkhan'
